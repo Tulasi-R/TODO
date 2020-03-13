@@ -1,0 +1,38 @@
+.in-field{
+    background-color: rgb(243, 162, 162);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    height: 41px;
+    width: 48%;
+    margin: auto;
+}
+input{
+    width:34%;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+}
+.table-content{
+    padding: 25px;
+    width:50%;
+    margin: auto;
+    text-align: start;
+}
+tr:nth-child(even) {background: rgb(248, 233, 233)}
+tr:nth-child(odd) {background: rgb(228, 226, 226)}
+.fa-trash-o{
+    color: red;
+}
+button{
+    font-size: 23px;
+    width: 100px;
+}
+.fa-pencil{
+    color: green;
+}
+.row-table{
+    padding: 10px;
+    text-align: center;
+}
